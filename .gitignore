@@ -1,0 +1,4 @@
+# after git build got the ZIP
+/dist/*
+# The project dependent
+/node_modules/*
